@@ -519,14 +519,14 @@ strong, b {
   padding-top: 20px;
   padding-bottom: 5px;
   position: relative;
-  color: #679436; }
+  color: #d9ad39; }
   .section-heading:after {
     content: '';
     display: block;
     vertical-align: bottom;
     width: 30px;
     height: 1px;
-    background: #679436;
+    background: #d9ad39;
     margin-bottom: 10px;
     margin-top: 20px; }
   .section-heading span {
@@ -650,7 +650,7 @@ strong, b {
   border-radius: 30px; }
 
 .btn-default {
-  background-color: #679436;
+  background-color: #d4b922 ;
   color: #fff;
   padding: 15px 20px;
   border: 0;
@@ -660,7 +660,7 @@ strong, b {
   border-radius: 0; }
 
 .btn-default:hover {
-  background-color: #679436; }
+  background-color: #d4b922 ; }
 
 .btn-primary {
   background-color: #679436;
@@ -1302,7 +1302,7 @@ Back To Top Section
 ============================= */
 .rs-icon-1 .icon {
   display: table-cell;
-  color: #679436;
+  color: #d9ad39;
   font-size: 27px;
   line-height: 2.2;
   width: 60px;
@@ -1372,6 +1372,10 @@ Back To Top Section
  * -----------------------------------------------------------------------------
  */
 /* 4.1 - NAVBAR */
+.logo-nav{
+  height:80px;
+  width:auto;
+}
 .topbar {
   background-color: #222222;
   -webkit-box-shadow: 4px 5px 30px rgba(0, 0, 0, 0.2);
@@ -1450,7 +1454,7 @@ Back To Top Section
   z-index: 999;
   width: 100%; }
   .header-1 .navbar-main {
-    background-color: #679436; }
+    background-color: #d9ad39 ; }
     .header-1 .navbar-main > .container {
       margin-bottom: 0;
       padding: 5px 0; }
@@ -1781,7 +1785,10 @@ Back To Top Section
   background-position: center;
   color: gray; }
   .footer .footer-item .logo-bottom {
-    margin-bottom: 10px; }
+    margin-bottom: 10px; 
+    width:200px;
+    height: auto;
+  }
   .footer .footer-item .footer-title {
     font-size: 24px;
     padding: 20px 0 10px 0;
