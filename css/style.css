@@ -1462,14 +1462,14 @@ Back To Top Section
       position: absolute;
       top: -90px; }
     .header-1 .navbar-main .navbar-nav .nav-link.active {
-      color: #E6E1C5; }
+      color: #d4b922; }
     .header-1 .navbar-main .navbar-nav .nav-link {
       color: #fff;
       padding: .5rem 1.5rem; }
       .header-1 .navbar-main .navbar-nav .nav-link:hover, .header-1 .navbar-main .navbar-nav .nav-link:focus {
-        color: #E6E1C5; }
+        color: grey; }
     .header-1 .navbar-main .navbar-nav .active > .nav-link {
-      color: #E6E1C5; }
+      color: #d4b922; }
     .header-1 .navbar-main.stiky {
       height: auto;
       background-color: #fff;
@@ -1500,7 +1500,7 @@ Back To Top Section
       .header-1 .navbar-main.stiky .nav-link {
         color: #222222; }
         .header-1 .navbar-main.stiky .nav-link:hover, .header-1 .navbar-main.stiky .nav-link:focus {
-          color: #679436; }
+          color: grey; }
 
 .header-2 .container-nav {
   padding: 20px 0; }
