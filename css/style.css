@@ -1595,16 +1595,16 @@ Back To Top Section
     font-size: 72px;
     padding: 0;
     margin-bottom: 10px;
-    color: #fff; }
+    color: black; }
     .banner h1 span {
       color: #679436; }
     .banner h1.bg {
       background-color: rgba(230, 225, 197, 0.5);
       padding: 20px; }
   .banner p {
-    font-size: 18px;
+    font-size: 22px;
     padding: 0;
-    color: #fff; }
+    color: black; }
     .banner p.bg {
       background-color: rgba(255, 255, 255, 0.5);
       padding: 20px;
